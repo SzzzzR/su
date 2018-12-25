@@ -1,6 +1,6 @@
 token= NTI3MDA1MTE5MDgyOTIyMDA0.DwQ-Qg.sRF_lT_lykKom45eC6NvC0NIYmk
 owner= 413623794154864640 
-prefix= Spartacus
+prefix= Sp
 game= Spartacus
 stayinchannel=true
 songinstatus=false 
