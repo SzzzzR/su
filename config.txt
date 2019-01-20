@@ -1,6 +1,6 @@
 token= NTEzMjUzMTI5MjMyMzE4NDY0.Dw4Esw.mA0KM-NjzixxuHb1yq-9szQejxo
 owner= 290819338829824000 
-prefix=  Y
+prefix= Y
 game= Type Yplay
 stayinchannel=true
 songinstatus=false 
